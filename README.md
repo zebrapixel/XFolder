@@ -4,6 +4,8 @@
 
 # XFolder
 
+[English](README.md) | [中文](README_zh.md)
+
 XFolder is a modern file manager designed specifically for macOS. It integrates core features such as multi-pane views, a smart directory tree, and multi-tab management, aiming to provide a more efficient and flexible file browsing experience than Finder.
 
 This project is built based on C# (Avalonia UI) and Swift.
@@ -32,9 +34,11 @@ The source code for this software is currently not open source. You can download
 
 ## ✨ Features
 
-*   **Tabs Management**
-*   **Multiple Pane Layouts**
-*   **Directory Tree View**
+*   **Multi-Pane Layouts** - Supports horizontal, vertical, and mixed layouts for flexible file management
+*   **Tabs Management** - Open multiple folders in separate tabs within each pane
+*   **Directory Tree View** - Navigate through folder hierarchies with a built-in tree view
+*   **Quick Access** - Pin frequently used folders like Desktop, Documents, and Downloads for instant access in the sidebar
+*   **Breadcrumb Navigation** - Intuitive path navigation bar showing full directory hierarchy with clickable segments
 
 ## ⌨️ Shortcuts
 

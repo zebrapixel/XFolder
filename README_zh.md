@@ -70,8 +70,11 @@ XFolder 支持丰富的键盘快捷键以提升效率：
 ### Tabs & Editing
 | Action | Shortcut |
 | :--- | :--- |
+| **New Tab** | `⌘` + `T` |
+| **Next Tab** | `⌘` + `→` |
+| **Previous Tab** | `⌘` + `←` |
 | **Close Tab** | `⌘` + `W` |
-| **Duplicate Tab** | `⌘` + `⇧` + `K` |
+| **Duplicate Tab** | `⌘` + `⇧` + `T` |
 | **Undo** | `⌘` + `Z` |
 | **Redo** | `⌘` + `Y` |
 

@@ -70,8 +70,11 @@ XFolder supports rich keyboard shortcuts to enhance productivity:
 ### Tabs & Editing
 | Action | Shortcut |
 | :--- | :--- |
+| **New Tab** | `⌘` + `T` |
+| **Next Tab** | `⌘` + `→` |
+| **Previous Tab** | `⌘` + `←` |
 | **Close Tab** | `⌘` + `W` |
-| **Duplicate Tab** | `⌘` + `⇧` + `K` |
+| **Duplicate Tab** | `⌘` + `⇧` + `T` |
 | **Undo** | `⌘` + `Z` |
 | **Redo** | `⌘` + `Y` |
 

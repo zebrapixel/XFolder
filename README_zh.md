@@ -47,6 +47,9 @@ XFolder 支持丰富的键盘快捷键以提升效率：
 ### User Interface / Navigation
 | Action | Shortcut |
 | :--- | :--- |
+| **Navigate Back** | `⌥` + `←` |
+| **Navigate Forward** | `⌥` + `→` |
+| **Navigate to Parent** | `Delete` |
 | **Next Pane** | `⌃` + `⇧` + `→` |
 | **Previous Pane** | `⌃` + `⇧` + `←` |
 | **Details View** | `⌃` + `0` or `⌃` + `Num 0` |
@@ -58,6 +61,7 @@ XFolder 支持丰富的键盘快捷键以提升效率：
 | Action | Shortcut |
 | :--- | :--- |
 | **Copy** | `⌘` + `C` |
+| **Copy Item Path** | `⌘` + `⇧` + `C` |
 | **Cut** | `⌘` + `X` |
 | **Paste** | `⌘` + `V` |
 | **Select All** | `⌘` + `A` |

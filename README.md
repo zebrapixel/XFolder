@@ -47,6 +47,9 @@ XFolder supports rich keyboard shortcuts to enhance productivity:
 ### User Interface / Navigation
 | Action | Shortcut |
 | :--- | :--- |
+| **Navigate Back** | `⌥` + `←` |
+| **Navigate Forward** | `⌥` + `→` |
+| **Navigate to Parent** | `Delete` |
 | **Next Pane** | `⌃` + `⇧` + `→` |
 | **Previous Pane** | `⌃` + `⇧` + `←` |
 | **Details View** | `⌃` + `0` or `⌃` + `Num 0` |
@@ -58,6 +61,7 @@ XFolder supports rich keyboard shortcuts to enhance productivity:
 | Action | Shortcut |
 | :--- | :--- |
 | **Copy** | `⌘` + `C` |
+| **Copy Item Path** | `⌘` + `⇧` + `C` |
 | **Cut** | `⌘` + `X` |
 | **Paste** | `⌘` + `V` |
 | **Select All** | `⌘` + `A` |

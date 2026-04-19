@@ -52,9 +52,11 @@ XFolder supports rich keyboard shortcuts to enhance productivity:
 | **Navigate to Parent** | `Delete` |
 | **Next Pane** | `⌃` + `⇧` + `→` |
 | **Previous Pane** | `⌃` + `⇧` + `←` |
-| **Details View** | `⌃` + `0` or `⌃` + `Num 0` |
-| **Grid View** | `⌃` + `1` or `⌃` + `Num 1` |
+| **Details View** | `⌃` + `1` or `⌃` + `Num 1` |
+| **Grid View** | `⌃` + `2` or `⌃` + `Num 2` |
 | **Open in Finder** | `⌘` + `E` |
+| **Toggle Sidebar** | `⌘` + `B` |
+| **Toggle Full Screen** | `F11` |
 | **Open Terminal** | `⌃` + `~` |
 
 ### File Operations
@@ -62,6 +64,7 @@ XFolder supports rich keyboard shortcuts to enhance productivity:
 | :--- | :--- |
 | **Copy** | `⌘` + `C` |
 | **Copy Item Path** | `⌘` + `⇧` + `C` |
+| **Copy Item Path With Quotes** | `⌘` + `⌥` + `C` |
 | **Cut** | `⌘` + `X` |
 | **Paste** | `⌘` + `V` |
 | **Select All** | `⌘` + `A` |
@@ -75,10 +78,12 @@ XFolder supports rich keyboard shortcuts to enhance productivity:
 | Action | Shortcut |
 | :--- | :--- |
 | **New Tab** | `⌘` + `T` |
+| **Switch to 1st-8th Tab** | `⌘` + `1-8` |
+| **Switch to Last Tab** | `⌘` + `9` |
 | **Next Tab** | `⌘` + `→` |
 | **Previous Tab** | `⌘` + `←` |
 | **Close Tab** | `⌘` + `W` |
-| **Duplicate Tab** | `⌘` + `⇧` + `T` |
+| **Reopen Closed Tab** | `⌘` + `⇧` + `T` |
 | **Undo** | `⌘` + `Z` |
 | **Redo** | `⌘` + `Y` |
 

@@ -58,6 +58,7 @@ XFolder supports rich keyboard shortcuts to enhance productivity:
 | **Toggle Sidebar** | `⌘` + `B` |
 | **Toggle Full Screen** | `F11` |
 | **Open Terminal** | `⌃` + `~` |
+| **Edit Path** | `⌘` + `L` or `⌥` + `D` |
 
 ### File Operations
 | Action | Shortcut |
@@ -73,10 +74,13 @@ XFolder supports rich keyboard shortcuts to enhance productivity:
 | **Rename** | `F2` |
 | **Open** | `Enter` |
 | **New Folder** | `⌘` + `⇧` + `N` |
+| **Refresh** | `F5` |
 
 ### Tabs & Editing
 | Action | Shortcut |
 | :--- | :--- |
+| **Open Workspace** | `⌘` + `O` |
+| **Save Workspace As** | `⌘` + `⇧` + `S` |
 | **New Tab** | `⌘` + `T` |
 | **Switch to 1st-8th Tab** | `⌘` + `1-8` |
 | **Switch to Last Tab** | `⌘` + `9` |

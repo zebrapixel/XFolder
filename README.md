@@ -59,6 +59,12 @@ XFolder supports rich keyboard shortcuts to enhance productivity:
 | **Toggle Full Screen** | `F11` |
 | **Open Terminal** | `⌃` + `~` |
 | **Edit Path** | `⌘` + `L` or `⌥` + `D` |
+| **Show Info in Finder** | `⌘` + `I` |
+| **Go to Home** | `⌘` + `⇧` + `H` |
+| **Go to Applications** | `⌘` + `⇧` + `A` |
+| **Go to Desktop** | `⌘` + `⇧` + `D` |
+| **Go to Documents** | `⌘` + `⇧` + `O` |
+| **Go to Downloads** | `⌘` + `⌥` + `L` |
 
 ### File Operations
 | Action | Shortcut |

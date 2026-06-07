@@ -56,6 +56,7 @@ XFolder 支持丰富的键盘快捷键以提升效率：
 | **Grid View** | `⌃` + `2` or `⌃` + `Num 2` |
 | **Open in Finder** | `⌘` + `E` |
 | **Toggle Sidebar** | `⌘` + `B` |
+| **Show Hidden Items** | `⌘` + `H` |
 | **Toggle Full Screen** | `F11` |
 | **Open Terminal** | `⌃` + `~` |
 | **Edit Path** | `⌘` + `L` or `⌥` + `D` |

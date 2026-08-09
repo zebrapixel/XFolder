@@ -75,6 +75,7 @@ XFolder supports rich keyboard shortcuts to enhance productivity:
 | **Copy Item Path With Quotes** | `⌘` + `⌥` + `C` |
 | **Cut** | `⌘` + `X` |
 | **Paste** | `⌘` + `V` |
+| **Paste to selected folder** | `⌘` + `⇧` + `V` |
 | **Select All** | `⌘` + `A` |
 | **Delete** | `Delete` or `⌘` + `D` |
 | **Delete Permanently** | `⇧` + `Delete` |

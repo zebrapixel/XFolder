@@ -75,6 +75,7 @@ XFolder 支持丰富的键盘快捷键以提升效率：
 | **Copy Item Path With Quotes** | `⌘` + `⌥` + `C` |
 | **Cut** | `⌘` + `X` |
 | **Paste** | `⌘` + `V` |
+| **Paste to selected folder** | `⌘` + `⇧` + `V` |
 | **Select All** | `⌘` + `A` |
 | **Delete** | `Delete` or `⌘` + `D` |
 | **Delete Permanently** | `⇧` + `Delete` |
